@@ -1,11 +1,10 @@
-# © 2023 University of Information Technology / Design Pattern
-------------
-![alt text](https://i.imgur.com/Z7WQvq0.png)
+## © 2023 University of Information Technology / Design Pattern
+
 # Overview
 
 This repository aims to provide a comprehensive collection of design patterns along with their explanations and code examples in various programming languages. Whether you're a beginner or an experienced developer, this repository will serve as a valuable resource to enhance your understanding of software design principles. It contains code examples and explanations of various design patterns that are commonly used in software engineering. Design patterns are general, reusable solutions to recurring problems in software design. They are not specific code, but rather templates or guidelines for how to solve a problem in different situations.
 
-
+![alt text](https://i.imgur.com/Z7WQvq0.png)
 
 Design patterns are reusable solutions to common problems that arise during software design and development. They provide proven solutions and best practices that help in creating flexible, maintainable, and scalable software systems. By leveraging design patterns, developers can enhance code reusability, modularity, and extensibility, resulting in more efficient and robust applications.
 
