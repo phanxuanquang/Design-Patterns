@@ -8,6 +8,8 @@ This repository aims to provide a comprehensive collection of design patterns al
 
 Design patterns are reusable solutions to common problems that arise during software design and development. They provide proven solutions and best practices that help in creating flexible, maintainable, and scalable software systems. By leveraging design patterns, developers can enhance code reusability, modularity, and extensibility, resulting in more efficient and robust applications.
 
+Documentation for Vietnamese people can be found [HERE](https://github.com/phanxuanquang/Design-Patterns/blob/master/Documentation.pdf)
+
 Please be noted that the explanations and code examples in this repository are for educational purposes only and may not cover every possible implementation scenario. It's recommended to adapt and modify the patterns to fit your specific project requirements.
 <details>
   <summary>Creational Patterns</summary>
